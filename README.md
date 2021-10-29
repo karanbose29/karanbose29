@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karanbose29
 - 👀 I’m interested in Shopify projects.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on wordpress, woocommerce, shopify and marketing automation projects
 - 📫 Reach me at karan@hulaglobal.com
 
